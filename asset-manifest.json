@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/guillermoferraz/almaguia/static/css/main.a6d349b3.chunk.css",
-    "main.js": "/guillermoferraz/almaguia/static/js/main.ca9048e9.chunk.js",
-    "main.js.map": "/guillermoferraz/almaguia/static/js/main.ca9048e9.chunk.js.map",
-    "runtime-main.js": "/guillermoferraz/almaguia/static/js/runtime-main.4d806481.js",
-    "runtime-main.js.map": "/guillermoferraz/almaguia/static/js/runtime-main.4d806481.js.map",
-    "static/js/2.1943585b.chunk.js": "/guillermoferraz/almaguia/static/js/2.1943585b.chunk.js",
-    "static/js/2.1943585b.chunk.js.map": "/guillermoferraz/almaguia/static/js/2.1943585b.chunk.js.map",
-    "static/js/3.b717b83f.chunk.js": "/guillermoferraz/almaguia/static/js/3.b717b83f.chunk.js",
-    "static/js/3.b717b83f.chunk.js.map": "/guillermoferraz/almaguia/static/js/3.b717b83f.chunk.js.map",
-    "index.html": "/guillermoferraz/almaguia/index.html",
-    "static/css/main.a6d349b3.chunk.css.map": "/guillermoferraz/almaguia/static/css/main.a6d349b3.chunk.css.map",
-    "static/js/2.1943585b.chunk.js.LICENSE.txt": "/guillermoferraz/almaguia/static/js/2.1943585b.chunk.js.LICENSE.txt"
+    "main.css": "/almaguia/static/css/main.a6d349b3.chunk.css",
+    "main.js": "/almaguia/static/js/main.ca9048e9.chunk.js",
+    "main.js.map": "/almaguia/static/js/main.ca9048e9.chunk.js.map",
+    "runtime-main.js": "/almaguia/static/js/runtime-main.8285bbde.js",
+    "runtime-main.js.map": "/almaguia/static/js/runtime-main.8285bbde.js.map",
+    "static/js/2.1943585b.chunk.js": "/almaguia/static/js/2.1943585b.chunk.js",
+    "static/js/2.1943585b.chunk.js.map": "/almaguia/static/js/2.1943585b.chunk.js.map",
+    "static/js/3.b717b83f.chunk.js": "/almaguia/static/js/3.b717b83f.chunk.js",
+    "static/js/3.b717b83f.chunk.js.map": "/almaguia/static/js/3.b717b83f.chunk.js.map",
+    "index.html": "/almaguia/index.html",
+    "static/css/main.a6d349b3.chunk.css.map": "/almaguia/static/css/main.a6d349b3.chunk.css.map",
+    "static/js/2.1943585b.chunk.js.LICENSE.txt": "/almaguia/static/js/2.1943585b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d806481.js",
+    "static/js/runtime-main.8285bbde.js",
     "static/js/2.1943585b.chunk.js",
     "static/css/main.a6d349b3.chunk.css",
     "static/js/main.ca9048e9.chunk.js"
