@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');                                                                                                                                               
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +8,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    border:1px solid black;
+    height:100vh;
+    background:rgb(0,0,0);
+    background:  radial-gradient(circle, rgba(0,0,0,1) 14%, rgba(4,4,4,1) 25%, rgba(46,42,42,1) 45%, rgba(38,33,33,1) 52%, rgba(0,0,0,1) 69%);
+  
+  ;
 }
 
 code {

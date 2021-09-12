@@ -1,0 +1,30 @@
+
+.preloader {
+    width: 120px;
+    height: 120px;
+    border: 15px solid rgba(228, 14, 14,0.7);
+    border-top: 15px solid #666;
+    border-radius: 50%;
+    animation-name: girar;
+    animation-duration: 0.9s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  .preloader2 {
+    width: 120px;
+    height: 120px;
+    border: 15px solid rgba(228, 14, 14,0.7);
+    border-top: 15px solid #666;
+    border-radius: 50%;
+    animation-name: girar;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  @keyframes girar {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
